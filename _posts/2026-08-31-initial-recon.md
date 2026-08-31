@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Note：当我拿到 IP 后该从哪里入手（初步侦察）"
+title: "Note：当拿到 URL 后该从哪里入手（初步侦察）"
 date: 2026-08-31 08:00:00 +0800
 categories: [Web-security]
 tags: [总结]
