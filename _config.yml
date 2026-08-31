@@ -2,5 +2,11 @@ title: 我的笔记
 description: 记录编程、读书和日常思考
 theme: minima
 
+header_pages:
+  - index.md
+  - archive.md
+  - categories.md
+  - about.md
+
 lang: zh-CN
 timezone: Asia/Shanghai
