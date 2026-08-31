@@ -2,8 +2,8 @@
 layout: post
 title: "我的第一篇学习笔记"
 date: 2026-08-31
-categories: [Web 攻击]
-tags: [Git]
+categories: [web-security]
+tags: [Web攻击, Git]
 ---
 
 ## 今天学习了什么
