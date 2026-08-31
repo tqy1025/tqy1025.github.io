@@ -1,0 +1,2 @@
+Hello, strangers!
+Hello, world!
