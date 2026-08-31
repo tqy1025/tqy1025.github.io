@@ -19,3 +19,14 @@ tags: [Web攻击, Git]
 ## 总结
 
 以后可以继续在这里记录学习过程。
+
+{% if page.tags %}
+<p>
+  标签：
+  {% for tag in page.tags %}
+    <a href="{{ '/tags/' | relative_url }}#{{ tag | uri_escape }}">
+      #{{ tag }}
+    </a>
+  {% endfor %}
+</p>
+{% endif %}
