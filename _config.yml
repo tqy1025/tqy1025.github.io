@@ -9,4 +9,5 @@ header_pages:
   - index.md
   - archive.md
   - categories.md
+  - tags.md
   - about.md
