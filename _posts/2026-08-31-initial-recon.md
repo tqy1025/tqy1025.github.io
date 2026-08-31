@@ -3,7 +3,7 @@ layout: post
 title: "当我拿到 IP 后该从哪里入手（初步侦察）"
 date: 2026-08-31 08:00:00 +0800
 categories: [Web-security]
-tags: [信息收集, 初步侦察]
+tags: [总结]
 ---
 
 > 本文仅用于 CTF、个人靶场和经过授权的安全测试，并将随着学习持续更新。
