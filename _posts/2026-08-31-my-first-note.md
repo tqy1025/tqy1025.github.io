@@ -2,7 +2,7 @@
 layout: post
 title: "我的第一篇学习笔记"
 date: 2026-08-31
-categories: [web-security]
+categories: [Web-security]
 tags: [Web攻击, Git]
 ---
 
