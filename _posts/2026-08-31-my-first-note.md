@@ -2,7 +2,7 @@
 layout: post
 title: "我的第一篇学习笔记"
 date: 2026-08-31
-categories: 学习笔记
+categories: Web 攻击
 tags: [GitHub, 博客]
 ---
 
